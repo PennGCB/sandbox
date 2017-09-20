@@ -19,7 +19,7 @@ Here are a few helpful links below:
 
 Once done several times, the process becomes intuitive.
 Described here is a walk through of how to contribute to an open source project and how collaborations on GitHub are best supported.
-By the end of the walkthrough, you will have added your name, year, and lab to a separate markdown table using a pull request.
+By the end of the walkthrough, you will have added your name and lab to a separate markdown file ([`students.md`](students.md) using a pull request.
 
 ### Step 1 - Fork the Repository
 
