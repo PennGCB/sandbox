@@ -49,7 +49,7 @@ The `Master` branch is typically the front facing landing page of all GitHub rep
 Other branches can be made that have other purposes, including development branches.
 For our example here, we are adding your name and info to a GCB markdown table.
 
-In the terminal (after navigating to the newly created `sandbox` repository), create and switch to a a branch named `add-me`.
+In the terminal (after navigating to the newly created `sandbox` repository (`cd sandbox`)), create and switch to a a branch named `add-me`.
 
 ```sh
 git checkout -b add-me
