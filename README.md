@@ -8,7 +8,7 @@ GitHub has a number of well documented tutorials and guides to help get setup.
 Here are a few helpful links below:
 
 | Guide | Link |
-| :---: | :--: |
+| :---: | :--- |
 | Create an Account | https://help.github.com/articles/signing-up-for-a-new-github-account/ |
 | Enabling an SSH key | https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/ |
 | GitHub Workflow | https://guides.github.com/introduction/flow/ |
