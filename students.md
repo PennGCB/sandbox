@@ -2,5 +2,5 @@
 
 | Name | GitHub Username | Lab | Favorite Food |
 | ---- | --------------- | --- | :-----------: |
-| Greg Way | @gwaygenomics | @greenelab | @jessicaway's pesto gnocchi |
+| Greg Way | [@gwaygenomics](https://github.com/gwaygenomics) | [@greenelab](https://github.com/greenelab) | [@jessicaway](https://github.com/jessicaway)'s pesto gnocchi |
 
