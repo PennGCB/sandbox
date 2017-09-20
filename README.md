@@ -120,6 +120,9 @@ git remote add upstream git@github.com:PennGCB/sandbox.git
 # Check remote branches - the upstream branch should be configured now
 git remote -v
 
+# Switch your branch back to your master
+git checkout master
+
 # Fetch any changes from the upstream branch (from the `PennGCB/sandbox`)
 # This will include the newly merged pull request AND any other changes made by others
 # This should be done periodically to ensure your origin is up to date with the upstream
