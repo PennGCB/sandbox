@@ -39,7 +39,7 @@ I typically use `SSH`, but this requires activating SSH keys.
 Copy the line and paste it into your terminal.
 
 ```sh
-git clone git@github.com:<USERNAME>/sandbox
+git clone git@github.com:<USERNAME>/sandbox.git
 ```
 
 ### Step 3 - Create a Branch
