@@ -6,3 +6,4 @@
 | Mark | mjw-18 | Way lab | Burgers |
 | Roshan | [@roshankern](https://github.com/roshankern) | Way lab | Hash Browns |
 | Jenna | [@jenna-tomkinson] (https://github.com/jenna-tomkinson) | [@wayscience] (https://github.com/WayScience) | Mac and Cheese |
+| Parker | [@phicks22] (https://github.com/phicks22) | [@wayscience] (https://github.com/WayScience) | Sushi |
