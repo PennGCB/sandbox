@@ -8,3 +8,4 @@
 | Jenna | [@jenna-tomkinson] (https://github.com/jenna-tomkinson) | [@wayscience] (https://github.com/WayScience) | Mac and Cheese |
 | Rose | [@rosedoss](https://github.com/rosedoss) | Way Lab | Tacos |
 | Keenan | [@kmanpearl](https://github.com/kmanpearl) | [@wayscience] | Breakfast | 
+| Ethan | [@Ecohen1763](https://github.com/Ecohen1763) | Way lab | Sushi |
