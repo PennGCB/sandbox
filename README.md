@@ -1,4 +1,4 @@
-# Penn GCB Sandbox
+# WayScience GitHub Sandbox
 
 **A place to mess around with git and GitHub**
 
