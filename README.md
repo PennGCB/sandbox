@@ -1,4 +1,4 @@
-# Penn GCB Sandbox
+# WayScience GitHub Sandbox
 
 **A place to mess around with git and GitHub**
 
@@ -23,15 +23,15 @@ By the end of the walkthrough, you will have added your name and lab to a separa
 
 ### Step 1 - Fork the Repository
 
-Navigate to the PennGCB/sandbox repository and click `Fork` above.
+Navigate to the WayScience/sandbox repository and click `Fork` above.
 
 ![fork](images/fork.png?raw=true)
 
-This will create a copy of the PennGCB repository under your username.
+This will create a copy of the sandbox repository under your username.
 
 ### Step 2 - Clone your Fork into your local machine
 
-Navigate to your own fork of the PennGCB/sandbox repository and clone with either `SSH` or `HTTPS`.
+Navigate to your own fork of the WayScience/sandbox repository and clone with either `SSH` or `HTTPS`.
 I typically use `SSH`, but this requires activating SSH keys.
 
 ![clone](images/clone.png?raw=true)
@@ -96,7 +96,7 @@ git push --set-upstream origin add-me
 
 ### Step 6 - File a Pull Request
 
-The code is now living in your local machine and on your `fork`, but not in the PennGCB repository.
+The code is now living in your local machine and on your `fork`, but not in the WayScience repository.
 Adding the code there is done through a pull request.
 
 ![pull_request](images/pull_request.png?raw=true)
@@ -114,8 +114,8 @@ Assign a maintainer to look, discuss, and eventuall `merge` in your changes!
 This is probably the most overlooked step of the pull request model: Ensuring the upstream branch, the fork, and your local machine are all at the same point.
 
 ```sh
-# Initialize the upstream branch - this is the `PennGCB/sandbox` repository that your fork is of
-git remote add upstream git@github.com:PennGCB/sandbox.git
+# Initialize the upstream branch - this is the `WayScience/sandbox` repository that your fork is of
+git remote add upstream git@github.com:WayScience/sandbox.git
 
 # Check remote branches - the upstream branch should be configured now
 git remote -v
@@ -123,7 +123,7 @@ git remote -v
 # Switch your branch back to your master
 git checkout master
 
-# Fetch any changes from the upstream branch (from the `PennGCB/sandbox`)
+# Fetch any changes from the upstream branch (from the `WayScience/sandbox`)
 # This will include the newly merged pull request AND any other changes made by others
 # This should be done periodically to ensure your origin is up to date with the upstream
 git fetch upstream
@@ -138,5 +138,5 @@ git push
 
 ### Step 8 - Repeat for any other change you want and that's it!
 
-For major changes, it is often good practice to discuss a potential change by filing a [GitHub issue](https://github.com/PennGCB/sandbox/issues) first.
+For major changes, it is often good practice to discuss a potential change by filing a [GitHub issue](https://github.com/WayScience/sandbox/issues) first.
 
